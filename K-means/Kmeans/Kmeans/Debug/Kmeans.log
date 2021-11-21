@@ -1,0 +1,13 @@
+﻿  fonctions.cpp
+C:\Users\Utilisateur\source\repos\K-means\Kmeans\Kmeans\fonctions.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilisateur\source\repos\K-means\Kmeans\Kmeans\fonctions.cpp(49,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilisateur\source\repos\K-means\Kmeans\Kmeans\fonctions.cpp(138,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilisateur\source\repos\K-means\Kmeans\Kmeans\fonctions.cpp(144,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilisateur\source\repos\K-means\Kmeans\Kmeans\fonctions.cpp(156,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilisateur\source\repos\K-means\Kmeans\Kmeans\fonctions.cpp(132,13): warning C4101: 'closest_centroid_index': unreferenced local variable
+C:\Users\Utilisateur\source\repos\K-means\Kmeans\Kmeans\fonctions.cpp(134,15): warning C4101: 'pt': unreferenced local variable
+C:\Users\Utilisateur\source\repos\K-means\Kmeans\Kmeans\fonctions.cpp(133,16): warning C4101: 'calculated_distance': unreferenced local variable
+C:\Users\Utilisateur\source\repos\K-means\Kmeans\Kmeans\fonctions.cpp(306,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilisateur\source\repos\K-means\Kmeans\Kmeans\fonctions.cpp(330,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilisateur\source\repos\K-means\Kmeans\Kmeans\fonctions.cpp(334,27): warning C4018: '<': signed/unsigned mismatch
+  Kmeans.vcxproj -> C:\Users\Utilisateur\source\repos\K-means\Kmeans\Debug\Kmeans.exe
